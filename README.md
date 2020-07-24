@@ -6,12 +6,13 @@
 </div>
 
 ### I'm interested in...
-- 📲  Mobile / Web Automating Test
+- 📲  **Mobile / Web Automating Test**
   - Selenium, Appium, RestAssured-Java, Cucumber🥒, TestNG
-- 🖥  Web Development
+- 🖥  **Web Development**
   - Ruby on Rails
-- 🖊  Writing
-  - and some writing daily assey or translate Technical document.
+- 🖊  **Writing**
+  - Some writing daily assey or translate Technical document.
+  - and also write QA / Test document
   
 ### Contact
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dahun-yoo-58a3b51aa/)](https://www.linkedin.com/in/dahun-yoo-58a3b51aa/)
