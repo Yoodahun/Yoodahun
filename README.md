@@ -11,8 +11,8 @@
 - 🖥  **Web Development**
   - Ruby on Rails
 - 🖊  **Writing**
-  - Some writing daily assey or translate Technical document.
-  - and also write QA / Test document
+  - write QA / Test document
+  - and also some writing daily assey or translate Technical document.
   
 ### Contact
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dahun-yoo-58a3b51aa/)](https://www.linkedin.com/in/dahun-yoo-58a3b51aa/)
