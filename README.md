@@ -7,12 +7,23 @@
 
 ### I'm interested in...
 - 📲  **Mobile / Web Automating Test**
-  - Selenium, Appium, RestAssured-Java, Cucumber🥒, TestNG
+  - Automated browser : Selenium, Appium, RestAssured-Java, Cucumber🥒, TestNG
+  - API : RestAssured-Java, Requests-Python, POSTMAN
+  - also, I can BDD Testing : Cucumber framework
+  - etc : TestNG, Jmeter, 
 - 🖥  **Web Development**
   - Ruby on Rails
 - 🖊  **Writing**
-  - write QA / Test document
+  - write QA / Test document in Korean or Japanese native level.
   - and also some writing daily assey or translate Technical document.
+- 📕 **Also I can...**
+  - Adjust and Discusstion with stakeholders about Product
+  - Analyze into TestSuite
+  - Design and implement TestPlan and Testcase
+  - Manage Test schedule
+  - Test Business Requirement, Product Specification Document
+  - Report TestResult and Bug
+
   
 ### Contact
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dahun-yoo-58a3b51aa/)](https://www.linkedin.com/in/dahun-yoo-58a3b51aa/)
