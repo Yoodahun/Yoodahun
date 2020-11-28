@@ -7,15 +7,15 @@
 
 ### I'm interested in...
 - 📲  **Mobile / Web Automating Test**
-  - Automated browser : Selenium, Appium, RestAssured-Java, Cucumber🥒, TestNG
+  - Automated browser and Device : Selenium, Appium
   - API : RestAssured-Java, Requests-Python, POSTMAN
   - also, I can BDD Testing : Cucumber framework
-  - etc : TestNG, Jmeter, 
+  - etc : TestNG, Jmeter, Maven
 - 🖥  **Web Development**
   - Ruby on Rails
 - 🖊  **Writing**
   - write QA / Test document in Korean or Japanese native level.
-  - and also some writing daily assey or translate Technical document.
+  - and also some writing daily essay or translate Technical document.
 - 📕 **Also I can...**
   - Adjust and Discusstion with stakeholders about Product
   - Analyze into TestSuite
