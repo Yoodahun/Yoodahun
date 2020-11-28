@@ -21,8 +21,8 @@
   - Analyze into TestSuite
   - Design and implement TestPlan and Testcase
   - Manage Test schedule
-  - Test Business Requirement, Product Specification Document
-  - Report TestResult and Bug
+  - Test business requirement, product specification document
+  - Report TestResult and Bugs
 
   
 ### Contact
