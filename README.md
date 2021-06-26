@@ -24,6 +24,8 @@
   - Test business requirement, product specification document
   - Report TestResult and Bugs
 
+### Blog
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dahunyoo)](https://github.com/eungyeole/velog-readme-stats)
   
 ### Contact
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dahun-yoo-58a3b51aa/)](https://www.linkedin.com/in/dahun-yoo-58a3b51aa/)
