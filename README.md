@@ -1,4 +1,4 @@
-## QA Engineer 🤗
+## QA Engineer who loves kepp learning 🤗
 <div align=right>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYoodahun)](https://hits.seeyoufarm.com)
@@ -11,8 +11,6 @@
   - API : RestAssured-Java, Requests-Python, POSTMAN
   - also, I can BDD Testing : Cucumber framework
   - etc : TestNG, Jmeter, Maven
-- 🖥  **Web Development**
-  - Ruby on Rails
 - 🖊  **Writing**
   - write QA / Test document in Korean or Japanese native level.
   - and also some writing daily essay or translate Technical document.
@@ -23,6 +21,7 @@
   - Manage Test schedule
   - Test business requirement, product specification document
   - Report TestResult and Bugs
+  - Suggest and improve some process about product development or document reviewing
 
   
 ### Contact
