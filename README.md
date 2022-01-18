@@ -1,4 +1,4 @@
-## QA Engineer who loves kepp learning 🤗
+## QA Engineer who loves keep learning 🤗
 <div align=right>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYoodahun)](https://hits.seeyoufarm.com)
