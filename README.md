@@ -10,7 +10,7 @@
   - Automated browser and Device : Selenium, Appium
   - API : RestAssured-Java, Requests-Python, POSTMAN
   - also, I can BDD Testing : Cucumber framework
-  - etc : TestNG, Jmeter, Maven
+  - etc : TestNG, Pytest, Jmeter, Maven
 - 🖊  **Writing**
   - write QA / Test document in Korean or Japanese native level.
   - and also some writing daily essay or translate Technical document.
