@@ -7,7 +7,7 @@
 
 ### I'm interested in...
 - 📲  **Mobile / Web Automating Test**
-  - Automated browser and Device : Selenium, Appium
+  - Automated browser and Device : Selenium, Appium, Playwright
   - API : RestAssured-Java, Requests-Python, POSTMAN
   - also, I can BDD Testing : Cucumber framework
   - etc : TestNG, Pytest, Jmeter, Maven
@@ -15,12 +15,11 @@
   - write QA / Test document in Korean or Japanese native level.
   - and also some writing daily essay or translate Technical document.
 - 📕 **Also I can...**
-  - Adjust and Discusstion with stakeholders about Product
-  - Analyze into TestSuite
+  - Adjust and discuss with stakeholders about Product specification
+  - Analyze TestSuite
   - Design and implement TestPlan and Testcase
   - Manage Test schedule
-  - Test business requirement, product specification document
-  - Report TestResult and Bugs
+  - Report Test result and issues
   - Suggest and improve some process about product development or document reviewing
 
   
